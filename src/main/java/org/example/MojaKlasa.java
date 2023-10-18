@@ -2,7 +2,7 @@ package org.example;
 
 public class MojaKlasa {
     public int kwadrat(int liczba) {
-        return liczba * liczba;
+        return liczba * liczba*liczba;
     }
 }
 
